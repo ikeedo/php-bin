@@ -4,6 +4,7 @@
     "ctype",
     "curl",
     "dom",
+    "ffi",
     "fileinfo",
     "filter",
     "ftp",
