@@ -9,6 +9,7 @@
     "libiconv",
     "libxml2",
     "curl",
+    "libffi",
     "libpng",
     "onig",
     "sqlite",
